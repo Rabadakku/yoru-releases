@@ -33,11 +33,14 @@ then open it again:
 
 ## Updates
 
-Yoru tells you when there's a new version, in its status bar and in Settings,
-and downloads the right file for your Mac when you click Download. Quit Yoru,
-then drag the new one into Applications, replacing the old one: your data
-stays. macOS then asks once about "Yoru Safe Storage", the key to your vault:
-enter your Mac's password and click **Always Allow**.
+Yoru tells you when there's a new version, in its status bar and in Settings.
+Click **Update**: it downloads the new Yoru, checks it's exactly the one
+published here, and **Restart to update** puts it in place and opens it. Your
+data stays. macOS then asks once about "Yoru Safe Storage", the key to your
+vault: enter your Mac's password and click **Always Allow**.
+
+Before 2.2.0, Yoru couldn't update itself: quit it, then drag the new one into
+Applications, replacing the old one. From then on it updates itself.
 
 ## Help and ideas
 
